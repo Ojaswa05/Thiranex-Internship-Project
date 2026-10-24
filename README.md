@@ -1,5 +1,4 @@
-
-    # Data Analytics & Machine Learning Portfolio
+## Data Analytics & Machine Learning Portfolio
 
 <div align="center">
 
